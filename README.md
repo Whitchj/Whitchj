@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Whitchj
-- 👀 I’m interested in ...
+- 👀 I’m interested in building custom bots for discord
 - 🌱 I’m currently learning how to code node.js discord bots
 - 💞️ I’m looking to collaborate on discord
 - 📫 How to reach me use my username on discord if u need any help Whitch Hunter Gamer#6442
